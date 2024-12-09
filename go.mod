@@ -1,4 +1,4 @@
-module v1alpha1
+module configv1alpha1
 
 go 1.23.2
 

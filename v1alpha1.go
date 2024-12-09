@@ -1,4 +1,4 @@
-package v1alpha1
+package configv1alpha1
 
 import (
 	"time"
